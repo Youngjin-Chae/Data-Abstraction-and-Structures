@@ -1,0 +1,4 @@
+0. hw2 requirements
+1. tempalte
+2. seperating into two files? (.h & .cpp)
+
